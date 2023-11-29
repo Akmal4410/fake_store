@@ -1,7 +1,7 @@
-import 'package:fake_store/presentation/feature/home/home_binding.dart';
-import 'package:fake_store/presentation/feature/home/home_page.dart';
-import 'package:fake_store/presentation/feature/product/product_page.dart';
-import 'package:fake_store/presentation/feature/splash/splash_page.dart';
+import 'package:fake_store/presentation/features/home/home_binding.dart';
+import 'package:fake_store/presentation/features/home/home_page.dart';
+import 'package:fake_store/presentation/features/product/product_page.dart';
+import 'package:fake_store/presentation/features/splash/splash_page.dart';
 import 'package:get/get.dart';
 import 'package:get/route_manager.dart';
 

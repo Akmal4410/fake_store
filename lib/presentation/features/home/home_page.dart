@@ -1,5 +1,5 @@
 import 'package:fake_store/core/colors.dart';
-import 'package:fake_store/presentation/feature/home/home_controller.dart';
+import 'package:fake_store/presentation/features/home/home_controller.dart';
 import 'package:fake_store/presentation/widgets/product_card.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
